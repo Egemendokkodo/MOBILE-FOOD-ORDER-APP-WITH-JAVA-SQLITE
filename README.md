@@ -1,5 +1,5 @@
 # MOBILE-FOOD-ORDER-APP-WITH-JAVA
-I made an android application with using android studio and java lang.
+I made an android application with using android studio with java lang and SQLite.
 
 TR
   Herkese merhaba, java ile yemek sipariş mobil uygulaması yaptım.
