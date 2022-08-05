@@ -1,4 +1,4 @@
-# MOBILE-FOOD-ORDER-APP-WITH-JAVA
+# MOBILE-FOOD-ORDER-APP-WITH-JAVA-SQLITE
 I made an android application with using android studio with java lang and SQLite.
 
 TR
