@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/cart_background.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/circle_imageview.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/custom_email_icon.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/custom_lock_icon.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/focusedicons.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/home.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.233" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/ic_baseline_email_24_focused.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/ic_baseline_lock_24_focused.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/ic_success_svgrepo_com.xml" value="0.233" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/person.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/pic_background.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/pic_background1.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/pic_background2.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/pic_background3.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/pic_background4.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/pic_background5.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/round3.xml" value="0.233" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/round4.xml" value="0.11" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/round5.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/roundbtn.xml" value="0.198" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/roundbtn2.xml" value="0.198" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/searchedittext.xml" value="0.233" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/signinpageedittexts.xml" value="0.236" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/drawable/viewholder_popular.xml" value="0.2365" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_app_interface.xml" value="0.264" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_cart_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_log_in_page.xml" value="0.264" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_popular_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_show_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/activity_sign_in_page.xml" value="0.264" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/custom_layout.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/item_photo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/search_layout.xml" value="0.264" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/viewholder_cart.xml" value="0.536" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/viewholder_category.xml" value="0.4" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/layout/viewholder_popular.xml" value="0.4" />
+        <entry key="..\:/Users/egeme/JAVA/LoginPageIntent_Kullanm/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
